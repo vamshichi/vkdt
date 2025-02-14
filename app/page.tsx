@@ -1,6 +1,6 @@
 import Image from "next/image"
 import Link from "next/link"
-import { ChevronRight, Factory, Cog, Cpu, Wrench, Zap, ArrowRight } from "lucide-react"
+import {Factory, Cog, Cpu, Wrench, Zap, ArrowRight } from "lucide-react"
 import AboutSection from "./about"
 import img from '@/public/img/cad1.jpg'
 
